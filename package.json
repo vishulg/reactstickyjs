@@ -1,0 +1,20 @@
+{
+  "name": "reactstickyjs",
+  "version": "1.0.0",
+  "description": "ReactStickyJS is a JS library for making an element sticky with respect to window during page scroll and it also provide the break stickiness of the element when we want it to, in case other more prioritise element touches it.",
+  "main": "ReactStickyJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sticky",
+    "stickyJS",
+    "reactSticky",
+    "sticky",
+    "IE",
+    "break",
+    "sticky"
+  ],
+  "author": "Vishulg",
+  "license": "ISC"
+}
