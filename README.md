@@ -9,7 +9,7 @@ We have sticky property in CSS to manage sticky but its deprecated for IE and Ed
 ## Installation
 
 ```bash
-npm install --save ReactStickyJS
+npm install --save reactstickyjs
 ```
 
 ## Usage
